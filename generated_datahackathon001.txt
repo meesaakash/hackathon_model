@@ -1,0 +1,69 @@
+08/21/2023		Notice Viewer
+
+Loan Administration
+Deutsche Bank AG, New York
+
+Date: 25-May-2021
+TO: XYZ Funding 2016-1, LTD.
+ATTN: Agent Notices
+Fax: 
+Re General Electric*(AR 05/12)(LEV/CPSG)(B)
+
+***** Rate Setting *****
+
+Description: USD Loan Repricing for the Deal American Air*(AR 05/12)(LEV/CPSG)(B)
+
+Borrower AMERICAN AIRLINES INC in Facility 2018 TERM LOAN has the following loans
+					Current Reprice
+Description		Global Amount	Your Share	Date
+--------------------------------------------------------------
+Libor Option Loan	1,788,253,162.50	989898.99		27-May-2021
+
+
+
+Borrower AMERICAN AIRLINES INC in Facility 2018 TERM LOAN will make the following interest payments:
+
+Description		Global Amount	Your Share
+--------------------------------------------------------------
+Libor Option 		2,773,282.61		1535.17
+
+
+Borrower AMERICAN AIRLINES INC in Facility 2018 TERM LOAN will have the following new loans:
+			Next Reprice
+Pricing Option		Global Amount	Your Share	Date
+-------------------------------------------------------------- 
+Libor Option 		1,788,253,162.50	989898.99		28-Jun-2021
+
+
+Borrower AMERICAN AIRLINES INC in Facility 2018 TERM LOAN rates have been set as follows:
+			Next Reprice
+Description		Global Amount	All in Rate	Date
+-------------------------------------------------------------- 
+Libor Option 		1,788,253,162.50	1.840000%	28-Jun-2021
+Base Rate: 0.090000%
+Spread: 1.750000%
+	projected Interest: 2,924,787.39	Your Share: 1619.03
+
+
+Deal ISIN: US11111CAN22
+Deal CUSIP: 01234CAN2
+Facility: 2018 Team Loan
+
+Facility ISIN:
+Facility CUSIP: 01234CBB0
+
+We will remit your funds USD 1,535.17 on the effective date as follows:
+
+For XYZ Funding 2016-i, Ltd.
+To:
+Deutsche Trust Company Americas
+ABD
+123001234
+
+Attn:
+XY Funding 2016-i, Ltd.
+Account Number
+01235667
+Bank to Bank Info:
+
+Reference:American Air*(AR 05/12)(LEV/CPSG)(B),
